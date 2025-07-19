@@ -1,3 +1,4 @@
+Download and extract to a new folder. Name the folder "ZZZ_SSSPatches"
 Put into KSP Folder -> Gamedata
 
 This adds all the payloads for the Space Shuttle System for Realistic Progression 1 (RP1).

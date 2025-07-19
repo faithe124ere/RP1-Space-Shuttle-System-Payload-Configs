@@ -1,5 +1,6 @@
 Download and extract to a new folder. Name the folder "ZZZ_SSSPatches"
 Put into KSP Folder -> Gamedata
+Do NOT put into KSP RP1/RO Folder.
 
 This adds all the payloads for the Space Shuttle System for Realistic Progression 1 (RP1).
 All pieces require the Space Shuttles tech tree node to obtain.
